@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/328043172?s=200&v=4" alt="AutoMaintainer Logo" width="200" style="border-radius: 50%;"/>
-  <h1>?? AutoMaintainer</h1>
+  <h1>AutoMaintainer</h1>
   <p><strong>A robotic engineering team for your open-source projects.</strong></p>
 
   <p>
