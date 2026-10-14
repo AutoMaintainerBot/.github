@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AutoMaintainerBot/.github/main/assets/logo.png" alt="AutoMaintainer Logo" width="200" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/328043172?s=200&v=4" alt="AutoMaintainer Logo" width="200" style="border-radius: 50%;"/>
   <h1>?? AutoMaintainer</h1>
   <p><strong>A robotic engineering team for your open-source projects.</strong></p>
 
