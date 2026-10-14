@@ -14,7 +14,7 @@
 
 Welcome to the **AutoMaintainer** organization! We are dedicated to building autonomous, AI-driven tools that keep software projects healthy, secure, and up-to-date.
 
-## ?? Our Mission
+## Our Mission
 
 Maintaining open-source projects is exhausting. Issue queues grow, dependencies rot, and security vulnerabilities stack up. AutoMaintainer's mission is to **automate the toil** of open-source maintenance.
 
@@ -25,11 +25,11 @@ We build bots and platforms that:
 - Refactor legacy code
 - Enforce safety and testing guidelines
 
-## ?? Featured Projects
+## Featured Projects
 
 - [**AutoMaintainer**](https://github.com/AutoMaintainerBot/automaintainer): The core robotic maintainer engine. Connects to your GitHub repositories via webhooks, plans fixes using Large Language Models, validates them in an ephemeral sandbox, and opens PRs for you to merge.
 
-## ?? Getting Involved
+## Getting Involved
 
 We are an open-source community! If you're interested in AI, automated software engineering, or just hate dealing with dependency updates, we'd love your help!
 
@@ -39,5 +39,5 @@ We are an open-source community! If you're interested in AI, automated software 
 
 ---
 <div align="center">
-  <sub>Built with ?? by the AutoMaintainer Community.</sub>
+  <sub>Built with ❤ by the AutoMaintainer Community.</sub>
 </div>
